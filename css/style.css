@@ -1,0 +1,162 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+}
+.list {
+    list-style-type: none;
+}
+
+.logo {
+    color: #2196F3;
+}
+
+.link-logo{
+    font-family: 'Raleway', sans-serif;
+    font-size: 26px;
+    line-height: 1.19;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.link {
+    font-size: 14px;
+    line-height: 1.14;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #212121;
+}
+
+.link:hover {
+    color: #2196F3;
+}
+
+.button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.63;
+    letter-spacing: 0.03em;
+    background-color: #F5F4FA;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+
+.title {
+    font-size: 44px;
+    line-height: 1.36;
+    font-weight: 900;
+    color: #FFFFFF;
+}
+
+.item {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+    letter-spacing: 0.06em;
+    background-color: #2196F3;
+    color: #FFFFFF
+}
+
+
+.title-fourth {
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.text {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575
+}
+
+.title-second {
+    font-size: 36px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+.title-portfolio {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+}
+
+.text-img {
+    font-size: 16px;
+    line-height: 1.88;
+    letter-spacing: 0.03em;
+    color: #757575
+}
+
+
+.team {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+}
+
+.profession {
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #757575
+}
+
+.list .link-color {
+    color: rgba(255, 255, 255, 0.6)
+}
+
+.list .contact-details {
+    color: #757575;
+}
+
+.mail {
+    text-decoration: underline;
+}
+
+.text-footer {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    font-style: normal;
+}
+
+.text-color {
+    color: #FFFFFF;
+}
+
+.background-first {
+    background-color: #E5E5E5;
+}
+
+.background-second {
+    background-color: #F5F4FA;
+}
+
+.background-title {
+    background-color: #2F303A;
+}
+
+.background-header {
+    background-color: #FFFFFF;
+}
+
+.background-main {
+    background-color: #E5E5E5;
+}
+
+.background-footer {
+    background-color: #2F303A;
+}
