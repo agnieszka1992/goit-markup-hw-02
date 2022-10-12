@@ -42,11 +42,13 @@ body {
     color: inherit;
 }
 
-.link:hover {
+.link:hover, 
+.link:focus {
     color: var(--brand-color);
 }
 
 .button {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -68,6 +70,7 @@ body {
 }
 
 .item {
+    font-family: inherit;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.88;
@@ -129,7 +132,7 @@ body {
     color: rgba(255, 255, 255, 0.6)
 }
 
-.list .contact-details {
+.contact-details {
     color: var(--brand-color-four);
 }
 
@@ -142,6 +145,7 @@ body {
     line-height: 1.71;
     letter-spacing: 0.03em;
     font-style: unset;
+
 }
 
 .text-color {
