@@ -128,8 +128,8 @@ body {
     color: var(--brand-color-four);
 }
 
-.list .link-color {
-    color: rgba(255, 255, 255, 0.6)
+.link-color { 
+    color: rgba(255, 255, 255, 0.6) 
 }
 
 .contact-details {
@@ -150,6 +150,10 @@ body {
 
 .text-color {
     color: var(--brand-color-one);
+}
+
+.container {
+    text-align: center;
 }
 
 .background-first {
